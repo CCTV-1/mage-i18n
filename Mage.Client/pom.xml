@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.mage</groupId>
         <artifactId>mage-root</artifactId>
-        <version>1.4.47</version>
+        <version>1.4.48</version>
     </parent>
 
     <artifactId>mage-client</artifactId>
@@ -73,7 +73,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-s3</artifactId>
-            <version>1.11.827</version>
+            <version>1.11.957</version>
         </dependency>
         <dependency>
             <groupId>com.jgoodies</groupId>
